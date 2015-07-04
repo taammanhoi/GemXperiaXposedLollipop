@@ -74,7 +74,7 @@
     <string name="disable_drawer_backplate">隐藏主页背景框</string>
     <string name="remember_drawer_page">请记住当前页面</string>
     <string name="drawer_menu_opacity">导航菜单透明度</string>
-    <string name="menu_dark_bars">导航菜单暗色</string>
+    <string name="menu_dark_bars">导航菜单不透明</string>
     <string name="drawer_animation">@string/desktop_animation</string>
     
     <string name="lockscreen">锁屏设置</string>
